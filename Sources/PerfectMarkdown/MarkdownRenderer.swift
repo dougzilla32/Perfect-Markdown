@@ -1,4 +1,5 @@
 import upskirt
+import Darwin
 
 #if swift(>=5.0)
 public class MarkdownRenderer {
